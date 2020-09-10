@@ -18,7 +18,7 @@
 
 ---
 
-
+![YOUR github stats](https://github-readme-stats.vercel.app/api/?username=vinamra434&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ff8100&bg_color=151515)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinamra434&layout=compact&hide=html" alt="vinamra434" /></p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=vinamra434&style=flat-square alt=thesmartyking/> </p>
