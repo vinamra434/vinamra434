@@ -4,13 +4,12 @@
 
 # Let's Get Connected !!!
 
-<a href=https://www.instagram.com/vinamra___> <img align="left" src="https://media.giphy.com/media/3o6EhUklaKCjFXxkL6/giphy.gif" width="140" height="100"></img></a>
+<a href=https://www.instagram.com/vinamra___> <img align="left" src="https://media.giphy.com/media/3o6EhUklaKCjFXxkL6/giphy.gif" width="170" height="100"></img></a>
 
 <a href=www.linkedin.com/in/vinamra434> <img align="left" src="https://media.giphy.com/media/TF1ClftwWzMvugvVTl/giphy.gif" width="100" height="100"></img></a>
 
-<a href=mailto:vinamrasaxena434@gmail.com> <img align="left" src="https://media.giphy.com/media/aOften89vRbG/giphy.gif" width="100" height="100"></img></a>
+<a href=mailto:vinamrasaxena434@gmail.com> <img align="left" src="https://media.giphy.com/media/aOften89vRbG/giphy.gif" width="100" height="100"></img></a> <br><br />
 
-<br />
 <br><br />
 
 ---
