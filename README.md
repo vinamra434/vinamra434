@@ -4,6 +4,12 @@
 
 # Let's Get Connected !!!
 
+<a href=https://www.instagram.com/vinamra___> <img align="left" src="https://media.giphy.com/media/3o6EhUklaKCjFXxkL6/giphy.gif" width="105" height="75"></img></a>
+
+<a href=www.linkedin.com/in/vinamra434> <img align="left" src="https://media.giphy.com/media/TF1ClftwWzMvugvVTl/giphy.gif" width="105" height="75"></img></a>
+
+<a href=mailto:vinamrasaxena434@gmail.com> <img align="left" src="https://media.giphy.com/media/aOften89vRbG/giphy.gif" width="105" height="75"></img></a>
+
 ---
 
 #### <h3>About Me:- I am a Graduate student holding a Bachelor's degree in the field of Electronics and Communication Engineering and seeking for varieties of Opportunities in the vast ocean of Technology. <br>I am well Experienced Android Developer with in depth Skilled in Java, SQLite Database, Kotlin, UI Designer, Application Development, and Android Studio. </h3> 
