@@ -10,6 +10,8 @@
 
 <a href=mailto:vinamrasaxena434@gmail.com> <img align="left" src="https://media.giphy.com/media/aOften89vRbG/giphy.gif" width="100" height="100"></img></a>
 
+<br><br />
+
 ---
 
 #### <h3>About Me:- I am a Graduate student holding a Bachelor's degree in the field of Electronics and Communication Engineering and seeking for varieties of Opportunities in the vast ocean of Technology. <br>I am well Experienced Android Developer with in depth Skilled in Java, SQLite Database, Kotlin, UI Designer, Application Development, and Android Studio. </h3> 
