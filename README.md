@@ -16,7 +16,7 @@
 
 ---
 
-#### <h3>About Me:- I am a Graduate student holding a Bachelor's degree in the field of Electronics and Communication Engineering and seeking for varieties of Opportunities in the vast ocean of Technology. <br>I am well Experienced Android Developer with in depth Skilled in Java, SQLite Database, Kotlin, UI Designer, Application Development, and Android Studio. </h3> 
+#### <h3>About Me:- I make native Android apps using Java and Kotlin. I use Sqlite and firebase as my database. Here and there I like to work with flutter as side projects.. </h3> 
 
 ---
 
