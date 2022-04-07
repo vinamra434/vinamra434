@@ -6,9 +6,9 @@
 
 # Let's Get Connected !!!
 
-<a href=https://www.linkedin.com/in/vinamra434> <img align="left" src="https://github.com/vinamra434/vinamra434/blob/master/linkedin.png" width="100" height="100"></img></a>
+<a href=www.linkedin.com/in/contactvs> <img align="left" src="https://github.com/vinamra434/vinamra434/blob/master/linkedin.png" width="100" height="100"></img></a>
 
-<a href=mailto:vinamrasaxena434@gmail.com> <img align="left" src="https://github.com/vinamra434/vinamra434/blob/master/gmail.png" width="100" height="100"></img></a> <br><br />
+<a href=mailto:contactvs434@gmail.com> <img align="left" src="https://github.com/vinamra434/vinamra434/blob/master/gmail.png" width="100" height="100"></img></a> <br><br />
 
 <br><br />
 
