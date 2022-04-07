@@ -8,7 +8,7 @@
 
 <a href=https://www.instagram.com/vinamra___> <img align="left" src="https://media.giphy.com/media/3o6EhUklaKCjFXxkL6/giphy.gif" width="200" height="100"></img></a>
 
-<a href=https://www.linkedin.com/in/vinamra434> <img align="left" src="https://media.giphy.com/media/TF1ClftwWzMvugvVTl/giphy.gif" width="100" height="100"></img></a>
+<a href=https://www.linkedin.com/in/vinamra434> <img align="left" src="https://www.flaticon.com/free-icon/linkedin_174857" width="100" height="100"></img></a>
 
 <a href=mailto:vinamrasaxena434@gmail.com> <img align="left" src="https://media.giphy.com/media/aOften89vRbG/giphy.gif" width="100" height="100"></img></a> <br><br />
 
@@ -16,7 +16,7 @@
 
 ---
 
-#### <h3>About Me:- I make native Android apps using Java and Kotlin. I use Sqlite and firebase as my database. Here and there I like to work with flutter as side projects.. </h3> 
+#### <h3>About Me:- I develop native Android apps using Kotlin and perfer to abide by Google's android principles and material design  </h3> 
 
 ---
 
